@@ -1,6 +1,7 @@
 <h1 align="left">INTRODUÇÃO A CIÊNCIA DA COMPUTAÇÃO COM LINGUGAME C</h1>
 
 ###
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://drive.google.com/file/d/1AKEKWWk6R81ruga24zCRoPLQR6fADc5N/view?usp=drive_link)" height="40" alt="c logo"  />
 
 <p align="left">BY: Comunidade UNITEC</p>
 
